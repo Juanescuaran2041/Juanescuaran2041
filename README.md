@@ -1,3 +1,1 @@
-## Hi there 👋
-
 <p align="center"> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Juanescuaran2041&show_icons=true&theme=radical&count_private=true&hide_border=true" /> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juanescuaran2041&layout=compact&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanescuaran2041&theme=radical&hide_border=true" alt="streak stats" /> </p> <p align="center"> <img src="https://github-trophies.vercel.app/?username=Juanescuaran2041&theme=radical&no-frame=true&row=1&column=7" /> </p>
